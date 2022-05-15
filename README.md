@@ -13,7 +13,8 @@ EventBridge 구성
 ![image](https://user-images.githubusercontent.com/43159901/168460803-5f14b35f-d5fe-4a26-9ad1-0d66684e1695.png)
 
 ALB가 노드를 교체하거나 추가할 때, CreateNetworkInterface 이벤트가 발생하는 것을 기반으로 이벤트 패턴 생성
-![image](https://user-images.githubusercontent.com/43159901/168462738-e97542d1-9e5e-4d52-a4bf-1ce2150cfb4b.png)
+![image](https://user-images.githubusercontent.com/43159901/168462854-e98fc8ed-b48f-4c7b-bedc-d099ee3916d6.png)
+
 
 이벤트 발생 시 CloudWatch LogGroups으로 전송하도록 설정
 ![image](https://user-images.githubusercontent.com/43159901/168461130-c72563c4-e225-4861-96f8-34d204b11744.png)
