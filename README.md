@@ -30,3 +30,6 @@ CloudWatch LogGroups 확인
 
 
 
+## TODO List
+#### 수집된 LogGroups을 바탕으로 데이터 분석
+#### ALB에서 노드가 제거될 때 발생되는 DeleteNetworkInterface의 이벤트에는 ALB 명이 나오지 않으므로 ENI ID에 기반한 데이터 분석 필요
